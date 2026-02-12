@@ -21,8 +21,8 @@ import javax.swing.JOptionPane; // Puedes optar por eliminarlo si no usas Swing 
 
 public class Email {
 
-    private static final String EMAIL_FROM = "digitalstock2025ve@gmail.com"; // Tu dirección de correo de remitente
-    private static final String PASSWORD_FROM = "bjyk wpbj wtni tpzm"; // Tu contraseña (de aplicación si usas 2FA)
+    private static final String EMAIL_FROM = "XXX@gmail.com"; // Tu dirección de correo de remitente
+    private static final String PASSWORD_FROM = "XXX XXX XXX XXX"; // Tu contraseña (de aplicación si usas 2FA)
 
     private Properties mProperties;
     private Session mSession;
